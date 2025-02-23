@@ -20,6 +20,7 @@ def glue_name():
     first_name = input("Enter first name: ")
     last_name = input("Enter last name: ")
     print("Hi, " + first_name + " " + last_name)
+glue_name()
 ########### END YER CODE ABOVE THIS LINE ###########
 
 
